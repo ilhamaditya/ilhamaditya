@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Ilham Aditya Muksidin
 
-I'm a passionate **Software Quality Assurance professional** with deep experience in **automation testing, performance testing**, and **CI/CD integration**. I love building scalable, reliable QA pipelines that enable faster and more confident software releases.
-
 ---
 - 🎯 Passionate about automation testing and building reliable, scalable QA solutions.
 - 🚀 Currently expanding my expertise in test automation frameworks, CI/CD integration, and performance testing.
