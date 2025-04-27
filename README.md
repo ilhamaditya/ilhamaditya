@@ -24,9 +24,8 @@ I'm a passionate **Software Quality Assurance professional** with deep experienc
 
 ## 📫 How to Reach Me
 
-- [Twitter](https://twitter.com/muxsd)
+- [LinkedIn](https://www.linkedin.com/in/ilham-aditya-muksidin-53451563)
 - [Medium](https://medium.com/@muxsdn)
-- [LinkedIn](https://linkedin.com/in/your-linkedin) *(Update this if needed)*
 
 ---
 
