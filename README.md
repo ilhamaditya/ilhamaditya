@@ -8,7 +8,7 @@
 
 ## 📫 How to Reach Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ilham-aditya-muksidin-53451563)](https://www.linkedin.com/in/ilham-aditya-muksidin-53451563/)
 [![Medium Badge](https://img.shields.io/badge/-@muxsdn-000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@muxsdn)](https://medium.com/@muxsdn)
 
 ---
